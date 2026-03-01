@@ -1,0 +1,6 @@
+Faction:
+Attitude: 
+Locations:
+
+***Description***
+--*--

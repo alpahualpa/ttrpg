@@ -1,0 +1,66 @@
+---
+tags:
+publish: "true"
+---
+[[Feline]] and [[Aisen]] arrived in **[[Ghosts of Saltmarsh/Locations/Saltmarsh/Saltmarsh]]** with a shared instinct: something in this quiet fishing village was wrong. Not ordinary wrong—something darker. Older. Watching.
+
+In the streets they encountered a ragged, wild-eyed prophet named [[Barnaby]]. Most villagers dismiss him as mad. Yet his words carried a weight that was hard to ignore:
+
+> “The House on the cliff inhales souls… and exhales rot.”
+
+While others laughed, Barnaby did not. He insisted that Feline and Aisen were _chosen_ to confront whatever festers within the so-called **The Haunted House**.
+### The House on the Cliff
+
+The mansion stood in ruin, wind howling through its broken frame. But what first appeared to be a simple abandoned manor revealed deeper secrets.
+
+Through careful searching, the party uncovered a concealed passage—one that led beneath the house into hidden coastal caverns. The “haunting” above was only a mask.
+
+Below, the truth.
+
+The cellars opened into a smuggling operation operating out of sea caves. Crates, contraband, coded signals to ships offshore—it was organized, deliberate.
+
+At the center of it stood [[Ghosts of Saltmarsh/NPC/Haunted Hause/Sanbalet]], an arcane practitioner using illusion and fear to keep villagers away from the house. After a swift but deadly confrontation, Sanbalet was slain.
+
+With their leader fallen, the remaining smugglers surrendered. Under pressure, they revealed their routes, contacts, and the full scope of their operation.
+### The Documents
+
+Among Sanbalet’s belongings and within a locked sea chest, the party discovered ledgers and correspondence detailing regular transfers of coin and goods to an organization named [[The Brotherhood of Navigators]].
+
+Every document followed the same unsettling pattern:
+
+- Each page began with the phrase:  
+    **“The tide remembers.”**
+- Each page ended with the line:  
+    **“It always returns.”**
+
+The smugglers claimed the Brotherhood were “just financiers.” But none could explain the phrasing.
+### Session End State
+
+- Sanbalet: Dead
+    
+- Smuggler operation: Compromised
+    
+- Prisoners: Cooperative
+    
+- The “haunting”: Exposed as deception
+    
+Yet one question lingers:
+
+If the house was only a front for smugglers…  
+why did Barnaby speak of souls and rot?
+
+Something still feels unfinished.
+
+The sea keeps its secrets.
+
+### Loot found
+
+- 2 [healing potions](https://www.dndbeyond.com/magic-items/8960641-potion-of-healing)
+- ~210 gp
+- 3 blue quartz gems
+- [Pipe of Remembrance](https://www.dndbeyond.com/magic-items/606438-pipe-of-remembrance)
+- [Mariner's Scale Mail](https://www.dndbeyond.com/magic-items/9228837-mariners-armor)
+- 2x - [Light crossbows](https://www.dndbeyond.com/equipment/15-crossbow-light)
+- 2x - [Axes](https://www.dndbeyond.com/equipment/7-handaxe)
+- [Spellscroll of Detect Magic](https://www.dndbeyond.com/spells/2619097-detect-magic)
+- 2 arcane books

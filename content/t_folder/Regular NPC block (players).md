@@ -1,0 +1,4 @@
+Faction:
+Status:
+Attunement:
+Location:

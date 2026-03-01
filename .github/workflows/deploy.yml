@@ -1,4 +1,7 @@
 name: Deploy Quartz site to GitHub Pages
+
+env:
+  PUBLISH_TAG: campaign_zalando
  
 on:
   push:
