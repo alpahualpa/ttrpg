@@ -2,7 +2,4 @@
 title: Hello, fellow traveller
 publish: true
 ---
-
-  
-
-I need more coffee.
+Here you can find all the available information about "Ghosts of Saltmarsh" campaign.
